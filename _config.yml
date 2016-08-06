@@ -1,0 +1,28 @@
+name: Lindsay Love
+favicon: null
+layout_spectrum: 0.5992810840252787
+typography_spectrum: 0.1342617403715849
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6351532354019582
+  lightness: 0.7390469675883651
+  saturation: 0.14146566996350884
+  rhythmicContrast: 0.8034608934540302
+purpose: []
